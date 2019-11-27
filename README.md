@@ -1,16 +1,18 @@
-# Implementação
+# morse
+
   O tradutor de morse foi implementado utilizando uma árvora binária em que cada nó representa um caractere. Se o próximo símbolo for ".", vai para a esquerda, se for "-" vai para a direita.
   
-# Entrada
+## Entrada
   O programa lê linha por linha, portanto a separação de mensagens na entrada resulta na separação de tais mensagens na saída.
   Cada caractere deve estar separado por um espaço, e o carater "/" marca o fim das palavras e dá um espaço na saída.
   
-Ex.: 
+#### Entrada: 
 
    ... . -. / .--. . -- ..-. - ..-. ... / .--. .-. ..-. / ... . -- .. ..- .-.
 
    .. -. / .-. . ..- --. --- / - . / ..- ... --- .-.. ..-. -. . --. -.. ---
-       
+   
+#### Saída:
    SEM PEGADAS PRA SEGUIR
    
    UM REINO DE ISOLAMENTO
