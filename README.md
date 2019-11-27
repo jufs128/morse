@@ -17,14 +17,14 @@
    
    UM REINO DE ISOLAMENTO
 
-# Compilação
+## Compilação
   Mantendo-se morse.txt, arvore.h, arvore.c e main.c no mesmo diretório, abrindo o prompt de comando e acessando-o, deve-se compilar utilizando o seguinte comando:
 
 
 gcc -o nomedoprograma arvore.c main.c
 
 
-# Execução
+## Execução
 
 
   O programa está preparado para receber dados pela entrada padrão (stdin), então, deve-se executar em uma das seguintes maneiras:
