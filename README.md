@@ -1,5 +1,5 @@
 # morse
-
+## Implementação
   O tradutor de morse foi implementado utilizando uma árvora binária em que cada nó representa um caractere. Se o próximo símbolo for ".", vai para a esquerda, se for "-" vai para a direita.
   
 ## Entrada
