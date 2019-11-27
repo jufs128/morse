@@ -1,4 +1,6 @@
 # morse
+  O programa recebe um texto em morse e retorna sua tradução. Adicionado o parâmetro -a na execução, imprime o alfabeto em morse.
+  
 ## Implementação
   O tradutor de morse foi implementado utilizando uma árvora binária em que cada nó representa um caractere. Se o próximo símbolo for ".", vai para a esquerda, se for "-" vai para a direita.
   
